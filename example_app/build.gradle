@@ -1,6 +1,5 @@
 apply plugin: 'com.android.application'
-apply plugin: 'maven'
-group = 'com.github.Sushinn'
+apply plugin: 'android-apt'
 
 android {
     compileSdkVersion 23
